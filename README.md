@@ -4,10 +4,11 @@ Hello everybody! At this time I would like to show you a project that I've done 
 
 Here you will find a shopping cart project. Basically We can
 
-- Add products from the shopping cart
+- Add products to the shopping cart
 - Remove products from the shopping cart
 - Verify the stock to increase and decrease the product's amount
 - Update the products's amount
+- Save the shopping cart state across browser refresh by using `localStorage`
 
 <br/>
 
@@ -19,7 +20,7 @@ Here you will find a shopping cart project. Basically We can
 
 ![Cart](./.github/Cart.png)
 
-The tests evidence is shown below what makes sure that the application is working correctly and without bugs.
+The tests evidence showed below makes sure that the application is working correctly and without bugs.
 
 ![Cart](./.github/Tests.png);
 
